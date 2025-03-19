@@ -1,4 +1,5 @@
 Disaster Response Coordination App
+
 A comprehensive platform designed to coordinate disaster response efforts, connecting affected communities with resources, volunteers, and emergency services.
 
 Overview
